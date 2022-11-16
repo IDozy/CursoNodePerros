@@ -1,0 +1,17 @@
+body{
+  
+    justify-self: center;
+    align-items: center;
+}
+
+figcaption{
+    font-size: 1.5em;
+}
+
+main{
+    text-align: center;
+}
+
+ul, li {
+    display: inline;
+}
